@@ -1,4 +1,4 @@
-# HSF-India Tutorial, Kolkata, 2024-12-20 
+# HSF-India Tutorial, Kolkata, 2024-12-20
 
 [![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/davidlange6/courses-hsf-india-december2024/gpu?gpuCount=1)
 
