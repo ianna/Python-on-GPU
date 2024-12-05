@@ -1,4 +1,4 @@
-# HSF-India Tutorial, Kolkata, 2024-12-18 - 2024-12-19
+# [HSF-India Tutorial, Kolkata, Dec 16-20, 2024](https://indico.cern.ch/event/1461967/overview)
 
 [![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/davidlange6/courses-hsf-india-december2024/gpu?gpuCount=1)
 
